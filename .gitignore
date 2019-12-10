@@ -1,3 +1,11 @@
+# Intellij
+.idea/
+.idea/modules.xml
+.idea/**/*.xml
+.idea/modules
+*.iml
+/.idea/codeStyles/codeStyleConfig.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
